@@ -225,9 +225,64 @@ Layihənin tam interaktiv dashboard görüntüləri aşağıdakı kimidir:
 * **Niche Şirkətlər üçün Skalalaşma:** "Strong" statuslu 41 Niche şirkət rəqabət üstünlüklərini qoruyaraq kapital cəlb etməli və "Challenger" statusuna keçmək üçün böyümə proqramları icra etməlidir.
 * **Liderlər üçün Daxili Sağlamlaşdırma:** "Neutral" və "Critical" vəziyyətdə olan 16 Lider şirkət təcili olaraq daxili transformasiya prosesinə başlamalıdır, əks halda onların bazar payı arxadan gələn aqressiv iddialılar tərəfindən sürətlə ələ keçiriləcəkdir.
 
+### 🎛️ DASHBOARD 3: SWOT Intelligence Dashboard Analysis 
 
+## 📈 1. Risk & Growth Executive KPI Cards
 
-
-
+**TOP Metriklər:** 
 <p align="center">
-  <img src="./images/SWOT Executive Dashboard.png
+<img width="1476" height="112" alt="image" src="https://github.com/user-attachments/assets/6b01f50b-5f56-4875-a438-b03192524bce" />
+
+### 🔍 Insight
+* **Böyümə Meyli:** Strength (7) və Opportunity (6) xallarının yüksək olması bazarın ümumi böyümə potensialının risklərdən daha üstün olduğunu göstərir.
+* **Risk Asimmetriyası:** Bazarda böyük paya sahib olan güclü şirkətlərin (52%) mövcudluğu 4%-lik kritik risk qrupunu tarazlayır. Lakin mərkəzdə toplanan risk xalları sənayelərin hələ də daxili struktur zəifliklərindən tam xilas ola bilmədiyini sübut edir.
+
+### 🎯 Action Plan
+* **Erkən İzolasiya:** 4%-lik kritik şirkətlərin iflas və ya nağd pul böhranı ssenariləri modelləşdirilməlidir. Onların 52%-lik sağlam şirkətlər qrupuna zəncirvari şəkildə risk ötürməsinin qarşısı alınmalıdır.
+* **Kapitalın Alokasiyası:** İnvestisiya prioritetləri ümumi xalı 13 və daha yuxarı olan (S+O) böyümə yönümlü sənaye seqmentlərinə doğru yönəldilməlidir.
+
+## 📊 2. Growth Analysis (S + O) & Risk Analysis (W + T) 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/f0f31a0c-a0d5-440d-9a7f-877295fd9dfe" width="49%"/>
+<img src="https://github.com/user-attachments/assets/2fa56e7e-ed48-4a48-b1ac-289dca92eb18" width="49%"/>
+
+### 🔍 Insight
+* **Böyümə Balansı:** Bütün sənaye sahələri (Technology, Retail, Manufacturing, Finance) 7 (Strength) və 6 (Opportunity) xalları ilə demək olar ki, bərabər artım potensialına malikdir. Sektorlar arasında potensial fərqi çox azdır.
+* **Diferensial Risk:** Risk tərəfində (W+T) isə fərqlər daha kəskindir. **Retail** sənayesi 5 xallıq təhdid (Threat) və 4 xallıq zəiflik (Weakness) ilə ən yüksək xarici təzyiq altındadır. **Manufacturing** və **Healthcare** isə 5 xallıq daxili zəiflik dərəcəsi ilə əməliyyat xərcləri və struktur problemlərindən əziyyət çəkir.
+
+### 🎯 Action Plan
+* **Retail üçün Müdafiə Səddi:** Retail sahəsindəki şirkətlər 5 xallıq xarici təhdidi (Threat) azaltmaq üçün alternativ təchizat zənciri kanalları qurmalı və qiymət dalğalanmalarına qarşı qorunma alətlərindən istifadə etməlidirlər.
+* **Manufacturing/Healthcare:** Bu iki sektorda 5 xallıq zəiflik (Weakness) birbaşa yüksək əməliyyat xərcləri və işçi qüvvəsi çatışmazlığı ilə bağlıdır. Daxili proseslər avtomatlaşdırılmalı və idarəetmə yükləri azaldılmalıdır.
+
+## 🎯 3. Growth vs. Risk Positioning Matrix 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/99477ef3-39ea-4d9c-9518-a5f3e49c592d" width="50%"/>
+
+### 🔍 Insight
+* **Strategic Leaders (Yüksək Artım / Aşağı Risk):** **Retail** və **Healthcare** bu kvadratdadır. Bu sənayelərin artım potensialı yüksəkdir və risk profilləri idarəolunandır.
+* **Aggressive Growth (Yüksək Artım / Yüksək Risk):** **Manufacturing** bu kvadrata yaxın yerləşir. Həm böyümək imkanı, həm də qarşılaşdığı ekoloji və qanuni risklər eyni dərəcədə böyükdür.
+* **High Risk Industries (Aşağı Artım / Yüksək Risk):** **Finance** sektoru bu kritik kvadrata tərəf meyillənib. Sektor yüksək risk daşıyır, lakin mövcud mühitdə böyümə potensialı (Growth Score) digər sektorlardan daha aşağıda qalır.
+* **Stable Industries (Aşağı Artım / Aşağı Risk):** **Technology** qəribə şəkildə daha stabil, risk səviyyəsi nəzarətdə olan, lakin cari dövrdə daha təmkinli artım nümayiş etdirən mövqedədir.
+
+### 🎯 Action Plan
+* **Finance Sektorunun Yenidən Pozisiyalaşdırılması:** Finance sektoru təcili olaraq risk profilini azaltmalıdır. Yüksək riskli kredit portfelləri və köhnə rəqəmsal infrastruktur riskləri minimallaşdırılmalıdır ki, sektor "High Risk" zonasından çıxa bilsin.
+* **Retail-in Kapitalizasiyası:** Retail sənayesi "Strategic Leaders" mövqeyindən istifadə edərək bazarda aqressiv genişlənmə proqramları (məsələn, yeni e-ticarət bazarlarına daxil olmaq) icra etməlidir.
+* **Manufacturing üçün Risk Təmizlənməsi:** İstehsalat sektoru "Aggressive Growth" tələsinə düşməmək üçün yeni fabriklər və istehsal xətləri açmazdan əvvəl mövcud ekoloji və xammal risklərini nəzarət altına almalıdır.
+
+---
+
+Huseyn Mirzaliyev
+
+Data Analyst | Data Visualization & Analytics 
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📍 Baku, Azerbaijan
+
+📱 +994 55 820 80 50
+
+📧 huseyinmirzeliyev@gmail.com
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huseyn-mirzaliyev-78ba6b1a6/)
+[![github](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HuseynMirzaliyev)
+
